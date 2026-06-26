@@ -5,7 +5,7 @@
   "buildCommand": "npm run build",
   "functions": {
     "app/api/**/*.ts": {
-      "runtime": "nodejs20.x"
+      "runtime": "vercel-deno@1.0.0"
     }
   }
 }
