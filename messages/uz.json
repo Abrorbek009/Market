@@ -1,0 +1,19 @@
+{
+  "common": {
+    "brand": "MarketHub",
+    "catalog": "Katalog",
+    "orders": "Buyurtmalar",
+    "cart": "Savatcha",
+    "profile": "Profil",
+    "seller": "Sotuvchi",
+    "admin": "Admin",
+    "login": "Kirish",
+    "register": "Ro'yxatdan o'tish",
+    "cta": "Boshlash",
+    "searchPlaceholder": "Mahsulot qidirish"
+  },
+  "home": {
+    "headline": "Mahalliy brendlar uchun zamonaviy marketplace",
+    "subheadline": "Xaridorlar, sotuvchilar va administratorlar uchun yagona fullstack platforma."
+  }
+}

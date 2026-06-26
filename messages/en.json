@@ -1,0 +1,19 @@
+{
+  "common": {
+    "brand": "MarketHub",
+    "catalog": "Catalog",
+    "orders": "Orders",
+    "cart": "Cart",
+    "profile": "Profile",
+    "seller": "Seller",
+    "admin": "Admin",
+    "login": "Login",
+    "register": "Register",
+    "cta": "Get started",
+    "searchPlaceholder": "Search products"
+  },
+  "home": {
+    "headline": "A modern marketplace for local brands",
+    "subheadline": "A single fullstack platform for buyers, sellers, and administrators."
+  }
+}
